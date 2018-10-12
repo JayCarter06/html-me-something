@@ -1,7 +1,9 @@
 h1 {
     text-align: center;
 }
-
+.title1 {
+background-color: rgb(60, 173, 226)
+}
 body {
     background-color: rgb(183, 185, 185);
     text-align: center;
